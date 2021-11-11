@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: UnicornRestApi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ushaprajapati
+Implementation-Vendor-Id: up.eager.javaexperience
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://spring.io/projects/spring-boot/UnicornRest
+ Api
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
